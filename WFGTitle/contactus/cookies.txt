@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wfgtitle.com	TRUE	/	FALSE	1999999999	BIGipServerSNAVPLAMPWEB_HTTPS	!W5rPtbWvtbqs0U7vvitTM9G+zXgG7b+h8PI7v9qiMhKUH1ljLMtc1fVfEdx7GwttkVltch1LT+MMEg==
+
